@@ -1,0 +1,17 @@
+baseURL = 'https://robertluwang.github.io/life'
+defaultContentLanguage = 'en'
+title = 'Life is Beautiful'
+theme = 'papermod'
+
+[params]
+  env = "production"
+  title = "Life is Beautiful"
+  description = "Minimal blogging for beautiful life"
+  author = "oldhorse"
+  showReadingTime = true
+  showShareButtons = true
+  showPostNavLinks = true
+  showTags = true
+  
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
