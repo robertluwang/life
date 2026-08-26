@@ -7,7 +7,7 @@ summary = 'I engineered a specific set of rules to force the AI out of its defau
 tags = ['skill', 'banner', 'illustration']
 
 [params.cover]
-  image = "banner.jpeg"
+  image = "banner.jpeg?v=2"
   alt = "How to create blogging visual skill "
   relative = true
 +++
