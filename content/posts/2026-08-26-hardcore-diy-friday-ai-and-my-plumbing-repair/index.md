@@ -6,7 +6,7 @@ title = 'Hardcore DIY Friday: AI and My Plumbing Repair'
 tags = ['shower', 'plumbing', 'repair']
 
 [params.cover]
-  image = "banner.png"
+  image = "banner.jpeg"
   alt = "Hardcore DIY Friday: AI and My Plumbing Repair"
   relative = true
 +++
