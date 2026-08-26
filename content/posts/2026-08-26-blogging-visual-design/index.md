@@ -1,13 +1,13 @@
 
 +++
-date = '2026-08-25T23:29:21-04:00'
+date = '2026-08-26T15:22:34-04:00'
 draft = false
-title = 'How to create blogging visual skill '
-tags = ['skill', 'banner', 'illustration']
+title = 'blogging visual design'
+tags = ['blog', 'banner', 'illustration']
 
 [params.cover]
-  image = "banner.jpeg"
-  alt = "How to create blogging visual skill "
+  image = "banner.png"
+  alt = "blogging visual design"
   relative = true
 +++
 
@@ -26,4 +26,3 @@ Now, the workflow actually makes sense. I write and edit the blog post inside a 
 ![skill](skill.jpeg)
 
 It spits out a 16:9 banner with the title embedded into the negative space, plus a couple of 1:1 spot illustrations. I download the banner, drop it into my Obsidian vault inside the specific post's folder, and rename it to banner.jpg. The markdown links are simple. I hit one button to commit and push to GitHub. The GitHub Actions pipeline picks it up, Hugo rebuilds the site, and the post goes live with art that actually looks like human hands made it.
-
