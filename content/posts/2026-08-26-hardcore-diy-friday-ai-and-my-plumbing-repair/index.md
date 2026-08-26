@@ -15,7 +15,7 @@ It happened on a Friday night, which is exactly when plumbing problems always de
 
 The entire repair process, from diagnosing the leak to tightening the final screw, was directed by Gemini from start to finish. I described the symptoms. It told me I was dealing with a failed Moen 1222 Posi-Temp cartridge inside the wall. The first step was getting the handle off, but the tiny hex set screw at the bottom of the heavy metal teardrop handle was completely stripped. A standard Allen key just spun uselessly. I took a photo of the stripped hole and uploaded it. Gemini suggested finding a slightly larger star shaped Torx bit and hammering it gently into the soft metal to get enough mechanical bite. I dug through my toolbox, found a T15 bit, forced it in, and the screw finally cracked loose.
 
-![cartridge](cartridge.jpeg)
+![](cartridge.jpeg)
 
 Taking off the heavy chrome escutcheon plate was straightforward. That exposed the rough brass valve body set deep in the drywall. A small U shaped copper retaining clip held the pressurized system together. Gemini warned me to pull it straight up with needle nose pliers and set it far away from the drain. Dropping that piece behind the wall cavity means driving to the hardware store before you can turn the water back on.
 
