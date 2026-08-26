@@ -1,4 +1,4 @@
-baseURL = 'https://robertluwang.github.io/life'
+baseURL = 'https://robertluwang.github.io/life/'
 defaultContentLanguage = 'en'
 title = 'Life is Beautiful'
 theme = 'papermod'
