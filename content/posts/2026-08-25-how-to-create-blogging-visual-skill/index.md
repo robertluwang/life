@@ -6,12 +6,10 @@ title = 'How to create blogging visual skill '
 tags = ['skill', 'banner', 'illustration']
 
 [params.cover]
-  image = "banner.png"
+  image = "banner.jpeg"
   alt = "How to create blogging visual skill "
   relative = true
 +++
-
-![[banner.jpeg]]
 
 I run a personal static blog built with Hugo, deploying through an automated GitHub Actions pipeline. The text publishing part is frictionless. Writing in Obsidian, pushing to the repository, and triggering the build is a solved problem. The visual part was the annoyance. Every time I needed a header image, I would ask an AI generator, and it always spat out a hyper-polished, mathematically perfect render. It looked like cheap stock photography.
 
