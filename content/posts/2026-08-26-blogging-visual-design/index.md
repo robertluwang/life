@@ -6,7 +6,7 @@ title = 'blogging visual design'
 tags = ['blog', 'banner', 'illustration']
 
 [params.cover]
-  image = "banner.png"
+  image = "banner.jpeg"
   alt = "blogging visual design"
   relative = true
 +++
