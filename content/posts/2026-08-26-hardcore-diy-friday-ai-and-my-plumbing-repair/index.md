@@ -11,15 +11,13 @@ tags = ['shower', 'plumbing', 'repair']
   relative = true
 +++
 
-![](content/posts/2026-08-26-hardcore-diy-friday-ai-and-my-plumbing-repair/banner.jpeg)
-
 It happened on a Friday night, which is exactly when plumbing problems always decide to strike. The shower handle had been stiff for days, feeling like turning a rusty steering wheel. Then, right as I was trying to turn it off, something inside gave way. The water kept running. Not a drip, but a steady stream. A weekend emergency call to a plumber was going to cost a fortune. I pulled out my phone and opened Gemini, figuring I had nothing to lose by asking an artificial intelligence how to shut off a broken Moen shower. That kicked off a weekend of guided hardware debugging.
 
 The entire repair process, from diagnosing the leak to tightening the final screw, was directed by Gemini from start to finish. I described the symptoms. It told me I was dealing with a failed Moen 1222 Posi-Temp cartridge inside the wall. The first step was getting the handle off, but the tiny hex set screw at the bottom of the heavy metal teardrop handle was completely stripped. A standard Allen key just spun uselessly. I took a photo of the stripped hole and uploaded it. Gemini suggested finding a slightly larger star shaped Torx bit and hammering it gently into the soft metal to get enough mechanical bite. I dug through my toolbox, found a T15 bit, forced it in, and the screw finally cracked loose.
 
-Taking off the heavy chrome escutcheon plate was straightforward. That exposed the rough brass valve body set deep in the drywall. A small U shaped copper retaining clip held the pressurized system together. Gemini warned me to pull it straight up with needle nose pliers and set it far away from the drain. Dropping that piece behind the wall cavity means driving to the hardware store before you can turn the water back on.
+![cartridge](cartridge.jpeg)
 
-![](cartridge.jpeg)
+Taking off the heavy chrome escutcheon plate was straightforward. That exposed the rough brass valve body set deep in the drywall. A small U shaped copper retaining clip held the pressurized system together. Gemini warned me to pull it straight up with needle nose pliers and set it far away from the drain. Dropping that piece behind the wall cavity means driving to the hardware store before you can turn the water back on.
 
 With the clip gone, the cartridge was supposed to slide out. It did not budge. Calcification had cemented the plastic cartridge body to the inside of the brass pipe. I typed my frustration into the chat. The advice was clear: do not force it, do not pull on the brass stem with pliers, or the plastic sleeve will shatter inside the wall. Gemini told me to buy a dedicated cartridge puller. I found one at the local hardware store the next morning. It is a heavy steel tool that threads directly into the center brass stem of the old cartridge. You engage the two metal side tabs into the brass valve body, then slowly turn a massive hex nut clockwise with a large adjustable wrench. The mechanical advantage pushes against the pipe and pulls the stubborn cartridge straight out. When it popped free, the problem was obvious. The two large black oval rubber O-rings on the sides were shredded and unseated.
 
