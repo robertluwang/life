@@ -23,7 +23,7 @@ The solution was dropping the Gem and moving the logic to my Google Drive. I sav
 
 Now, the workflow actually makes sense. I write and edit the blog post inside a standard Gemini chat. When the text is finalized, I do not switch windows. I just type a command in the same chat telling it to retrieve the skill-blog-visual document from Drive and generate the art. It seamlessly pulls the design constraints, reads the article from our immediate chat history, and calls the image generation tool on the spot.
 
-![[skill.jpeg]]
+![skill](skill.jpeg)
 
 It spits out a 16:9 banner with the title embedded into the negative space, plus a couple of 1:1 spot illustrations. I download the banner, drop it into my Obsidian vault inside the specific post's folder, and rename it to banner.jpg. The markdown links are simple. I hit one button to commit and push to GitHub. The GitHub Actions pipeline picks it up, Hugo rebuilds the site, and the post goes live with art that actually looks like human hands made it.
 
