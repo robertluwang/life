@@ -11,8 +11,6 @@ tags = ['EQ card', 'Costco', 'Aeroplan', 'spending', 'travel']
   relative = true
 +++
 
-![](content/posts/2026-09-04-wallet-setup/banner.jpeg)
-
 I keep my daily living expenses in an EQ Bank account. Traditional banks like CIBC or TD pay essentially zero interest on checking balances, but EQ Bank gives me 2.75% on the money just sitting there. I have my direct deposits routed here. The cash sits and accumulates interest daily right up until the day my credit card bills are due. It is a simple mechanical setup to get some return on cash before it leaves my hands.
 
 When it is time to buy groceries, the payment method splits depending on where I shop. For Costco runs, I take the CIBC Costco Mastercard. It earns 3% cash back at the gas station and 1% inside the warehouse. The physical card acts as my membership ID, so I just scan the back at the door and tap the front at the register.
