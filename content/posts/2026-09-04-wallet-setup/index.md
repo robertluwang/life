@@ -25,4 +25,8 @@ Booking travel requires a different focus. The Aeroplan Visa Infinite is the too
 
 Traveling outside Canada breaks the domestic card strategy. The CIBC Costco and Aeroplan Visa cards both charge a 2.5% foreign exchange fee on non-Canadian purchases. I avoid this entirely by using the physical EQ Bank Card. It is a prepaid Mastercard linked directly to the high-interest account. Whether I am driving down to Albany and stopping for coffee, or paying for a ticket in Europe, the EQ card uses the exact Mastercard exchange rate. There is a 0% FX markup. I only use the Visa abroad when a true credit card is structurally required, like leaving a security deposit at a hotel check-in desk.
 
+join.eqbank.ca/?code=LU2343
+
+
+
 
