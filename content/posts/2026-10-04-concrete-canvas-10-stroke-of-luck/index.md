@@ -14,9 +14,9 @@ tags = ['albany', 'empire-state-plaza', 'art', 'road-trip', 'new-york']
 
 There is a distinct kind of travel adrenaline that only occurs underground, under buzzing sodium vapor lights, inside a subterranean parking labyrinth beneath thousands of tons of poured concrete.
 
-I stopped in Albany on Wednesday, September 30, on the drive home from Philadelphia to Montreal, and I reached the Empire State Plaza just around 10:00 in the morning. The digital signs outside the visitor garage flashed the one word every road tripper dreads: FULL. The lanes were lined with brake lights and polite desperation. Then a pair of reverse lights flickered white in the gloom of the lower level, a sedan pulled out, and I slipped into the last open stall I could find in the complex.
+We reached Albany on Tuesday, September 29, on the drive home from Philadelphia to Montreal, and stayed the night. The city earns that stop. Albany sits about 220 miles from Montreal and about 230 miles from Philadelphia, almost exactly halfway on the drive, an easy evening run from either end. The next morning, Wednesday, September 30, we went to the Empire State Plaza and arrived just around 10:00. The digital signs outside the visitor garage flashed the one word every road tripper dreads: FULL. The lanes were lined with brake lights and polite desperation. Then a pair of reverse lights flickered white in the gloom of the lower level, a sedan pulled out, and we slipped into the last open stall we could find in the complex.
 
-Four hours of world class art and heavy architecture for a flat $10 fee felt like getting away with something. The visitor lot under the Plaza, the V-Lot, charges a $10 flat fee on weekdays, and it takes cards only. The cash in my pocket stayed there.
+Four hours of world class art and heavy architecture for a flat $10 fee felt like getting away with something. The visitor lot under the Plaza, the V-Lot, charges a $10 flat fee on weekdays, and it takes cards only. No cash changed hands.
 
 Taking the elevator up from the garage feels like moving between two different centuries. You come out first into the Concourse, then push out onto the windswept, open expanse of the Plaza deck, and the scale of the place lands all at once.
 
@@ -62,12 +62,12 @@ There are no ticket desks down here and no timed entry. The art shares the corri
 
 ## The State Museum
 
-At the southern end of the Plaza axis sits the Cultural Education Center, the big stepped building that houses the New York State Museum, the State Library, and the State Archives. Climbing the steps in front of it gives the clearest view in Albany. You look north over the Calder in its pool, along the reflecting pools, past the agency towers, to the State Capitol, a 19th century building that looks like a French chateau dropped into a modernist plan.
+At the southern end of the Plaza axis sits the Cultural Education Center, the big stepped building that houses the New York State Museum, the State Library, and the State Archives. Admission to the museum is free. Climbing the steps in front of it gives the clearest view in Albany. You look north over the Calder in its pool, along the reflecting pools, past the agency towers, to the State Capitol, a 19th century building that looks like a French chateau dropped into a modernist plan.
 
 Inside, the museum changes the subject, away from abstract form and toward objects with lives attached. The Cohoes Mastodon was found in 1866, during construction of Harmony Mill No. 3 near Cohoes Falls on the Mohawk River, and its skeleton has been one of the museum's treasures ever since. From there the galleries move through Adirondack logging camps and Iroquois longhouses, set out as full size scenes you can walk past slowly.
 
 The gallery that stayed with me longest is The World Trade Center: Rescue, Recovery, Response. Near its centre is Engine 6, a fire pumper that was heavily damaged on September 11, set out with a large steel column from the towers and objects recovered during the cleanup at Fresh Kills. Nothing in the room is presented dramatically. The objects do the work on their own.
 
-Walking back to the garage later that afternoon, down into the quiet under the Plaza, the $10 parking charge felt well spent. Albany's Plaza gets criticized for its scale and its monumentality, and some of that criticism is fair. The art is the counterweight. I had parked under a government complex, ridden an elevator up, and spent four hours with work by Pollock, Rothko, Calder, and a long list of their contemporaries, all on a Wednesday stop on the drive home.
+Walking back to the garage later that afternoon, down into the quiet under the Plaza, the $10 parking charge felt well spent. Albany's Plaza gets criticized for its scale and its monumentality, and some of that criticism is fair. The art is the counterweight. We had parked under a government complex, ridden an elevator up, and spent four hours with work by Pollock, Rothko, Calder, and a long list of their contemporaries, in a city we had picked mainly because it split the drive home in half. The art and the museum had cost us nothing. Parking was the whole bill.
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/robertluwang)
