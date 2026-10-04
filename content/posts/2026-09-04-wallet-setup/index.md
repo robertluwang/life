@@ -27,7 +27,7 @@ Traveling outside Canada breaks the domestic card strategy. The CIBC Costco and 
 
 [![Join EQ](eq.jpeg)](https://join.eqbank.ca/?code=LU2343)
 
-
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/robertluwang)
 
 
 

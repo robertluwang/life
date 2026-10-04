@@ -31,4 +31,4 @@ The real CRA doesn't want to talk to you that badly on the phone, and they certa
 
 I tossed the phone back on the counter and went back to cutting vegetables. The pot on the stove was starting to warm up. If the government actually wants to find me, they can leave a paper trail like everyone else. Until then, every ringing phone from an official number gets treated like what it usually is: a ghost on the line trying to steal an afternoon.
 
-
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/robertluwang)

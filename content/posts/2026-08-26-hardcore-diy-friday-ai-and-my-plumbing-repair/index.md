@@ -35,4 +35,4 @@ The diagnosis came back immediately. If the "HC" is facing up but the water is r
 
 I rotated the brass stem. The handle pointed down for off, and turned left for cold and then hot water. The ghost handle issue resolved itself a few days later, exactly as predicted. It was a strange but satisfying weekend. I fixed a piece of physical household infrastructure using real tools, while a large language model sat on the bathroom counter walking me through every stripped screw and reversed valve. It felt like a very quiet, very perfect slice of daily life in the AI era.
 
-
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/robertluwang)
