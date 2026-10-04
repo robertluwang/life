@@ -1,6 +1,6 @@
 +++
 date = '2026-10-04T13:30:21-04:00'
-draft = true
+draft = false
 title = 'Concrete, Canvas, and a $10 Stroke of Luck: An Art Pilgrimage to the Empire State Plaza'
 tags = ['albany', 'empire-state-plaza', 'art', 'road-trip', 'new-york']
 
