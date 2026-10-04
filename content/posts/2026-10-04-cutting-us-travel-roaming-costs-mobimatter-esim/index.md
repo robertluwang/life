@@ -1,6 +1,6 @@
 +++
 date = '2026-10-04T18:21:46-04:00'
-draft = true
+draft = false
 title = 'Cutting US Travel Roaming Costs with a MobiMatter eSIM and Dual SIM Setup'
 tags = ['esim', 'rogers', 'iphone', 'travel', 'road-trip']
 
