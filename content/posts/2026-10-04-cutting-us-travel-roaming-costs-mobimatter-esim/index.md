@@ -12,7 +12,7 @@ tags = ['esim', 'rogers', 'iphone', 'travel', 'road-trip']
 
 ## A Canada-Only Plan and a $16-a-Day Problem
 
-A few weeks ago I switched my Rogers plan to a 175GB package at $40 a month. The local data bucket was massive, but reading the service terms later turned up something important: my previous plan included calling and data across Canada and the United States, and this new tier was Canada only. Taking the line across the border meant Rogers would bill Roam Like Home at $16 a day for the United States. Use a ten-day trip as the example and that fee reaches $160 before tax, for a drive that only needs map navigation, quick searches, and messaging.
+A few weeks ago I switched my Rogers plan to a 175GB package. The local data bucket was massive, but reading the service terms later turned up something important: my previous plan included calling and data across Canada and the United States, and this new tier was Canada only. Taking the line across the border meant Rogers would bill Roam Like Home at $16 a day for the United States. Use a ten-day trip as the example and that fee reaches $160 before tax, for a drive that only needs map navigation, quick searches, and messaging.
 
 Rogers is not limited to the daily rate, and the honest comparison has to say so. It also sells US Travel Passes, $60 for 14 days and $80 for 30 days, and a pass keeps your own number working for calls, texts, and data with no setup at all. A travel data eSIM still undercuts both options by a wide margin, at the cost of about ten minutes of configuration before you leave.
 
