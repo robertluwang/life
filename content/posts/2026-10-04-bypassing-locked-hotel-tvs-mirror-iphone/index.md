@@ -1,6 +1,6 @@
 +++
 date = '2026-10-04T16:16:29-04:00'
-draft = true
+draft = false
 title = 'Bypassing Locked Hotel TVs to Mirror Your iPhone'
 tags = ['hotels', 'travel', 'iphone', 'hdmi']
 
